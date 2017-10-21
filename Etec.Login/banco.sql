@@ -1,0 +1,11 @@
+CREATE DATABASE sistema
+
+
+
+USE sistema
+
+
+CREATE TABLE usuario(
+login VARCHAR(100) NOT NULL,
+senha VARCHAR(100) NOT NULL)
+
